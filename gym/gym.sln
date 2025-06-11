@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym", "gym\Gym.csproj", "{9F896376-5696-4805-8D19-715E34183404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F896376-5696-4805-8D19-715E34183404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F896376-5696-4805-8D19-715E34183404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F896376-5696-4805-8D19-715E34183404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F896376-5696-4805-8D19-715E34183404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D236D487-83F6-4A80-BE22-C1235FD1F9CE}
+	EndGlobalSection
+EndGlobal

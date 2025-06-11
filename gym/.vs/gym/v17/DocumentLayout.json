@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IQBAL\\source\\repos\\gym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\controllers\\gymclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\controllers\\gymclasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\models\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\models\\gymcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Migrations\\20250611173038_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gym\\Migrations\\20250611173038_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\models\\gymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\models\\gymclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|c:\\users\\iqbal\\source\\repos\\gym\\gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F896376-5696-4805-8D19-715E34183404}|gym\\gym.csproj|solutionrelative:gym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymClassController.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\GymClassController.cs",
+              "RelativeDocumentMoniker": "gym\\Controllers\\GymClassController.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\GymClassController.cs",
+              "RelativeToolTip": "gym\\Controllers\\GymClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:07:30.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\TrainerController.cs",
+              "RelativeDocumentMoniker": "gym\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\TrainerController.cs",
+              "RelativeToolTip": "gym\\Controllers\\TrainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:04:40.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "gym\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "gym\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:34:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250611173038_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Migrations\\20250611173038_InitialCreate.cs",
+              "RelativeDocumentMoniker": "gym\\Migrations\\20250611173038_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Migrations\\20250611173038_InitialCreate.cs",
+              "RelativeToolTip": "gym\\Migrations\\20250611173038_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:30:42.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\appsettings.json",
+              "RelativeDocumentMoniker": "gym\\appsettings.json",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\appsettings.json",
+              "RelativeToolTip": "gym\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T17:18:42.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Program.cs",
+              "RelativeDocumentMoniker": "gym\\Program.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Program.cs",
+              "RelativeToolTip": "gym\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:15:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GymContext.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\GymContext.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\GymContext.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\GymContext.cs",
+              "RelativeToolTip": "gym\\Models\\GymContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:13:58.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GymClass.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\GymClass.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\GymClass.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\GymClass.cs",
+              "RelativeToolTip": "gym\\Models\\GymClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:01:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\Member.cs",
+              "RelativeToolTip": "gym\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:01:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "gym\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\IQBAL\\source\\repos\\gym\\gym\\Models\\Trainer.cs",
+              "RelativeToolTip": "gym\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:00:21.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
